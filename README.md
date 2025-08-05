@@ -2,8 +2,6 @@
 
 **MiniTask** is a simple yet powerful task management app that helps you break down large projects into smaller, manageable tasks. Designed especially for freelancers and solo developers to stay focused and organized.
 
----
-
 ## Features
 
 - Create and manage personal projects
@@ -11,8 +9,6 @@
 - Track task status (In Progress, Completed, On Hold...)
 - Dark mode & light mode support
 - Fast, clean, and responsive UI
-
----
 
 ## Tech Stack
 
@@ -22,8 +18,6 @@
 - Context API
 - Firebase (Authentication / Firestore)
 - Vite (for development and build)
-
----
 
 ## Getting Started
 
