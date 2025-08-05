@@ -1,0 +1,32 @@
+App Routes Structure (SPA)
+
+|__@ landing
+|  |
+|  |__ /Home
+|  |
+|  |__ /About
+|  |
+|  |__ /FAQ
+|  |
+|  |__ /Contribute
+|
+|
+|__@ Auth_
+|  |
+|  |__ /Login
+|  |
+|  |__ /register
+|  |
+|  |__ /reset-password
+|
+|
+|
+|__@ App
+|  |
+|  |__ /overview
+|  |
+|  |__ /projects
+|  |
+|  |__ /tasks
+|
+| ....
